@@ -8,7 +8,7 @@ public class Vista {
         wallet miBilletera= new wallet();
 
         System.out.println(billetera1.consultarSaldo());
-        System.out.println(billetera1.guardarDinero(50000));
+        System.out.println(billetera1.guardarDinero(1000000));
         System.out.println(billetera1.consultarSaldo());
         System.out.println(miBilletera.consultarSaldo());
 
